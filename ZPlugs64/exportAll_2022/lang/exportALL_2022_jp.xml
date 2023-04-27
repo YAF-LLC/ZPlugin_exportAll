@@ -1,0 +1,58 @@
+<buttons>
+  <button path="ZPlugin:Export All:*.obj">
+    <title text="*.obj" trans=""/>
+    <info text="OBJ Format" trans="OBJフォーマット"/>
+  </button>
+  <button path="ZPlugin:Export All:*.mesh">
+    <title text="*.mesh" trans=""/>
+    <info text="Mesh ascii File" trans=""/>
+  </button>
+  <button path="ZPlugin:Export All:*.ply">
+    <title text="*.ply" trans=""/>
+    <info text="PLY" trans=""/>
+  </button>
+  <button path="ZPlugin:Export All:*.stl">
+    <title text="*.stl" trans=""/>
+    <info text="STL" trans=""/>
+  </button>
+  <button path="ZPlugin:Export All:*.wrl">
+    <title text="*.wrl" trans=""/>
+    <info text="VRML" trans=""/>
+  </button>
+  <button path="ZPlugin:Export All:*.off">
+    <title text="*.off" trans=""/>
+    <info text="OFF" trans=""/>
+  </button>
+
+  <button path="ZPlugin:Export All:Selected">
+    <title text="Selected" trans="選択のみ"/>
+    <info text="Export selected subtool" trans="選択しているサブツールのみエクスポートします"/>
+  </button>
+  <button path="ZPlugin:Export All:Visible">
+    <title text="Visible" trans="表示のみ"/>
+    <info text="Export visible subtools" trans="表示状態のサブツールのみエクスポートします"/>
+  </button>
+  <button path="ZPlugin:Export All:All">
+    <title text="All" trans="すべて"/>
+    <info text="Export all subtools" trans="すべてのサブツールをエクスポートします"/>
+  </button>
+
+  <button path="ZPlugin:Export All:Separate Files">
+    <title text="Separate Files" trans="個別のファイルへエクスポート"/>
+    <info text="Export as separate files" trans="個別のファイルへエクスポートします"/>
+  </button>
+
+  <button path="ZPlugin:Export All:Bin">
+    <title text="Bin" trans="バイナリ"/>
+    <info text="Binary file" trans="バイナリ形式でエクスポートします"/>
+  </button>
+  <button path="ZPlugin:Export All:ASCII">
+    <title text="ASCII" trans="テキスト"/>
+    <info text="ASCII file" trans="テキスト形式でエクスポートします"/>
+  </button>
+
+  <button path="ZPlugin:Export All:Export">
+    <title text="Export" trans="エクスポート"/>
+    <info text="Export" trans="エクスポート処理を行います"/>
+  </button>
+</buttons>
